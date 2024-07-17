@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: blue;
+}
+.container{
+    background-color: burlywood;
+    height: 400px;
+    width: 20%;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 500px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    background-color: brown;
+    margin-top: 40px;
+    margin-left: 65px;
+    border: none;
+    width: 140px;
+    height: 40px;
+}
+#incremnet-btn{
+    background: darkred;
+}
+#save-btn{
+    background-color: darkgreen;
+}
+#pre-ent{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+}
